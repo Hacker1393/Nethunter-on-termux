@@ -1,0 +1,12 @@
+pkg update && pkg upgrade -y
+pkg install wget -y
+wget -O install-nethunter-termux https://offs.ec/2MceZWr
+chmod +x install-nethunter-termux
+./install-nethunter-termux
+
+________________________________________________________
+
+if nethunter installed write "nethunter"
+on your terminal.
+nice! you claimed sudo permission with 
+out root! 😄 
