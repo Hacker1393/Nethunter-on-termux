@@ -4,9 +4,10 @@ wget -O install-nethunter-termux https://offs.ec/2MceZWr
 chmod +x install-nethunter-termux
 ./install-nethunter-termux
 
-________________________________________________________
+write👆 this commands on your termux terminal
 
 if nethunter installed write "nethunter"
 on your terminal.
 nice! you claimed sudo permission with 
-out root! 😄 
+out root! 😄🫵
+
